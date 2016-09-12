@@ -1,0 +1,4 @@
+D:\workspace\CmdAppLogger\JobLogger\bin\Debug\JobLogger.dll
+D:\workspace\CmdAppLogger\JobLogger\bin\Debug\JobLogger.pdb
+D:\workspace\CmdAppLogger\JobLogger\obj\Debug\JobLogger.dll
+D:\workspace\CmdAppLogger\JobLogger\obj\Debug\JobLogger.pdb

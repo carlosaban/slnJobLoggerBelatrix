@@ -1,0 +1,10 @@
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\bin\Debug\TestLoggerConsoleProject.dll.config
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\bin\Debug\TestLoggerConsoleProject.dll
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\bin\Debug\TestLoggerConsoleProject.pdb
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\bin\Debug\JobLogger.dll
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\bin\Debug\JobLogger.pdb
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\bin\Debug\JobLogger_Accessor.dll
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\bin\Debug\JobLogger_Accessor.pdb
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\obj\Debug\TestLoggerConsoleProject.csprojResolveAssemblyReference.cache
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\obj\Debug\TestLoggerConsoleProject.dll
+D:\workspace\CmdAppLogger\TestLoggerConsoleProject\obj\Debug\TestLoggerConsoleProject.pdb
